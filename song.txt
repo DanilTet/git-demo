@@ -4,5 +4,3 @@ da hello
 
 ya legenda
 aga skagi
-
-11.08 legend
