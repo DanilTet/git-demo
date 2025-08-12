@@ -1,3 +1,3 @@
 # git-demo
 
-я тут хай
+hello
